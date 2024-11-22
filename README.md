@@ -48,3 +48,12 @@ A table is constructed where each row represents a group (defined by pay grade a
 #### b. A case represents an individual army
 Another table is created where each row represents an individual service member. This is achieved using:
 - **`uncount`**: Expands the dataset by repeating rows based on the "Count" column, ensuring each row represents one person.
+
+## Results
+
+#### 1. The armyGroup Table
+The armyGroup table should contain 220 entries and 6 columns: `Pay Grade`, `Service Branch`, `Gender`, `Count`, `Category`, `Ranks`.
+
+#### 2. The armyIndividual Table
+The armyIndividual table should contain 23,844 entries and 5 columns:  `Pay Grade`, `Service Branch`, `Gender`, `Category`, `Ranks`.
+
