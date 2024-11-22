@@ -57,3 +57,8 @@ The armyGroup table should contain 220 entries and 6 columns: `Pay Grade`, `Serv
 #### 2. The armyIndividual Table
 The armyIndividual table should contain 23,844 entries and 5 columns:  `Pay Grade`, `Service Branch`, `Gender`, `Category`, `Ranks`.
 
+## Contacts
+
+For questions or other opportunities:
+**Email**: fateenahfarid@psu.edu
+
