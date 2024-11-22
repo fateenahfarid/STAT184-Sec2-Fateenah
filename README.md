@@ -1,2 +1,2 @@
-# STAT184-HW-Template
- STAT184 Github Day 1 HW Template
+## Introduction
+This project is an R-based data processing and analyzation related to U.S. Armed Forces Personnel. This project uses the U.S. Armed Forces Active-Duty Personnel by Service Branch, Sex, and Pay Grade data that is included in this repository under the data folder. The aim of this project is to transform the given U.S. Armed Forces data and combine web-scraping data to form a table where each row represents a group of army and another table where each row represents an individual army personnel.
