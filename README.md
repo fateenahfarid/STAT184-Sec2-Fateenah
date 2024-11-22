@@ -5,16 +5,16 @@ This project is an R-based data processing and analyzation related to U.S. Armed
 ### 1. Load Required Packages
 
 The project requires the following R packages:
-- **'tidyverse'**: For data wrangling.
-- **'rvest'**: For web scraping and HTML parsing.
+- **`tidyverse`**: For data wrangling.
+- **`rvest`**: For web scraping and HTML parsing.
 
 ### 2. Get Armed Forces Data
 
 #### a. Download and Load Data
-The data is provided in the repository under the data folder as 'US_Armed_Forces.csv'. The dataset can be read using 'read.csv()'.
+The data is provided in the repository under the data folder as `US_Armed_Forces.csv`. The dataset can be read using `read.csv()`.
 
 #### b. Clean Data
-The imported data uses the following functions from 'tidyverse':
+The imported data uses the following functions from `tidyverse`:
 - **`select`**: Removes unnecessary columns to focus on relevant data.
 - **`rename`**: Renames columns for better readability.
 - **`slice`**: Excludes specific rows to remove summary or invalid data.
