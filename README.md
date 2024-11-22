@@ -60,5 +60,5 @@ The armyIndividual table should contain 23,844 entries and 5 columns:  `Pay Grad
 ## Contacts
 
 For questions or other opportunities:
-**Email**: fateenahfarid@psu.edu
+- **Email**: fateenahfarid@psu.edu
 
